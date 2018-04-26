@@ -2,7 +2,7 @@
 title: 'Simmoc的独立博客'
 description: '前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
 keyword: ' 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'http://simmoc.github.io' # your host
+url: 'http://git.simmoc.cn' # your host
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
@@ -59,8 +59,7 @@ postPatterns: 'circuitBoard'
 sns:
   email: 'yeerrstudio@qq.com'
   weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
+  instagram: '//www.instagram.com/simmoc'
   github: '//github.com/simmoc'
 
 # Tags 设置标签
