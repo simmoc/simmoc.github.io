@@ -3,10 +3,11 @@ layout: post
 title: '提高你的效率Mac 工具集合'
 date: 2018-04-26
 author: Simmoc
-cover: 'http://7xsfqi.com1.z0.glb.clouddn.com/hello-banner.png'
+cover: 'http://cdn.simmoc.cn/download.png'
 tags: Mac
 ---
 # 提高你的效率Mac 工具集合！
+![download](http://cdn.simmoc.cn/download.png)
 
 > 从 2016 到现在，为了提升自己的效率，尝试过上百款工具，如果文章中提到的工具大家感兴趣的话，后续会介绍具体使用技巧。
 
